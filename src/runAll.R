@@ -1,0 +1,5 @@
+source("src/00_load_library")
+source("src/01_read_data")
+source("src/02_wrangle_data")
+source("src/03_plot_data")
+source("src/04_run_analysis")
